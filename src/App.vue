@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+  <h3>测试commitlint/config-conventional</h3>
 </template>
 
 <script lang="ts">
